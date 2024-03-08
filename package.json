@@ -1,0 +1,19 @@
+{
+  "name": "cleaning-customer-management",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de clientes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Róger Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "pg": "^8.11.3"
+  },
+  "type": "module"
+}
