@@ -4,7 +4,7 @@ Essa API foi desenvolvido como um teste.
 
 Utilizo as seguintes versões nesse projeto
 ### PostgreSQL 16
-### node 16.13.2
+### Node 16.13.2
 
 Para baixar as dependecias utilize o comando a seguir:
 
@@ -79,7 +79,7 @@ Payload:
 
 Retorna:
 Quando tiver sucesso retorna Status:
-`200 OK`
+`201 CREATED`
 
 3. Calcular Rota:
 
